@@ -11,4 +11,4 @@ We also happen to have your email, date of birth and country as it is given in t
 
 
 
-Everything in our bot is logged and recorded. If you do not contact rolly#9589 immediatly your information will be leaked publicly.
+Everything in our bot is logged and recorded. If you do not contact Yǔxuān#5673 immediatly your information will be leaked publicly.
